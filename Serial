@@ -1,0 +1,16 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/gjq6r0w7/channels4-profile-2.jpg" group-title="News",ZEE Bangla
+http://smart.bengaldigital.live/Zee-Bangla/index.m3u8
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/tgZZWkZW/images-2-11.jpg" group-title="News",Star Jalsha
+http://smart.bengaldigital.live/Star-jalsha/index.m3u8
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/KY6KNTBV/unnamed-3.png" group-title="News",Sun Bangla
+http://smart.bengaldigital.live/sun-bangla-paid/index.m3u8
+
+
+#EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/C5NzS6XT/image.jpg" group-title="News",Colors Bangla
+https://tiger-hub.vercel.app/Colors_bangla/tracks-v1a1/mono.ts.m3u8
