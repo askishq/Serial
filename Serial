@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/gjq6r0w7/channels4-profile-2.jpg" group-title="News",ZEE Bangla
-https://tvsen5.aynaott.com/PNEb3v2q6GBk/tracks-v1a1/mono.ts.m3u8
+https://stream.ottplus.live/live/zee_bangla_abr/live/zee_bangla_720/chunks.m3u8
 
 
 #EXTINF:-1 tvg-id="channel1" tvg-logo="https://i.postimg.cc/tgZZWkZW/images-2-11.jpg" group-title="News",Star Jalsha
